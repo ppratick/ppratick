@@ -21,7 +21,7 @@ I'm passionate about **software engineering, AI, and full-stack development**. C
 ---
 
 ## 💡 Notable Projects  
-### 🚀 [Crosshair](#)
+### 🚀 Crosshair
 🔹 **APRIL Tags & Computer Vision** for space assembly alignment  
 🔹 **Tech:** Arduino, C++, OpenCV, Linux, Ubuntu  
 
@@ -32,8 +32,8 @@ I'm passionate about **software engineering, AI, and full-stack development**. C
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratickkafley&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratickkafley&layout=compact&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppratick&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppratick&layout=compact&theme=dark)  
 
 ---
 
