@@ -1,5 +1,3 @@
-Below is your revamped GitHub README in Markdown format. It removes the AI Student Visa Consultant project and adds additional details about your experience, achievements, and technical expertise:
-
 # 👋 Hi, I'm Pratick Kafley
 
 I'm a passionate Computer Science student at [Carnegie Mellon University](https://www.cmu.edu/), specializing in software engineering, AI, and full-stack development. I love tackling complex problems and building scalable, intuitive software solutions. I'm also a certified cybersecurity professional (ISC2) and an active contributor to open source projects.
@@ -71,5 +69,3 @@ I'm a passionate Computer Science student at [Carnegie Mellon University](https:
 ---
 
 Feel free to reach out for collaborations, open-source projects, or just to chat about technology!
-
-You can copy and paste this directly into your GitHub README file. Let me know if you’d like to add or change anything else!
